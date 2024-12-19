@@ -1,0 +1,8 @@
+bigquery_explorer/
+├── utils/
+│   ├── __init__.py
+│   └── bigquery_tools.py
+├── frontend/
+│   └── app.py
+├── requirements.txt
+└── README.md 
